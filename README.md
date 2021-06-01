@@ -35,6 +35,10 @@ PATCH: localhost:3000/articles/specificArticle        // Patches the data for th
 DELETE: localhost:3000/articles/specificArticle       // Delete article which matches with the argument passed in the url
 ```
 
+## Sample case
+
+![postman-api](https://github.com/Ganesh-Sindagi/API-Express.js-MongoDB/blob/main/api-img.PNG?raw=true)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
