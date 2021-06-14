@@ -1,6 +1,6 @@
 # API-Express.js-MongoDB
 
-It is an API for dealing with articles in a wikipedia database.
+It is an API for dealing with articles in a wikipedia MongoDB database.
 
 ## Installation
 
